@@ -1,6 +1,6 @@
 # fromflux.github.io
 
-This is the source code for the author's web site
+This is the source code for the author's web site available [here](http://fromflux.com).
 
 ## License
 
